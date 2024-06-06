@@ -1,0 +1,7 @@
+<!-- Start all nodes-->
+
+<launch>
+    <node name="proximity_checker" pkg="husky_gazebo_plugins" type="proximity_checker.py" output="screen" />
+    <node name="yolo_human_detection" pkg="husky_gazebo_plugins" type="human_detector.py" output="screen" />
+    <node name="robot_control" pkg="husky_gazebo_plugins" type="robot_control.py" output="screen" />
+</launch>
