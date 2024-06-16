@@ -29,7 +29,7 @@ The `[-u]` will start the simulation paused
 
 - Run gazebo client (on a new terminal)
 
-```gzclient``` (then press play once the simulation is started if you started it with [-u])
+	- ```gzclient``` (then press play once the simulation is started if you started it with [-u])
 
 - Things you can visualize with rqt (run rqt in a new terminal)
 
