@@ -33,7 +33,7 @@ The `[-u]` will start the simulation paused
 
 - Things you can visualize with rqt (run rqt in a new terminal)
 
-	- Visualize the camera at the topic husky_model/husky/camera topic
+	- Visualize the camera at the topic ```husky_model/husky/camera topic```
 
 	- Visualize the rectangles around the human with the topic `/yolo_human_detection/human_rectangle1`
 
